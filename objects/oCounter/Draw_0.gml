@@ -1,0 +1,1 @@
+draw_text(rMidW-10,rMidH,count);
